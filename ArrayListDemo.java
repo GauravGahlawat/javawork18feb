@@ -69,6 +69,12 @@ public class ArrayListDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		PlayerList obj = new PlayerList();
+		obj.add();
+		obj.display();
+		obj.search();
+		obj.extract();
 
 	}
 
